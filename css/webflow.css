@@ -1812,3 +1812,25 @@ textarea.w-select {
 .wf-layout-layout {
   display: grid;
 }
+
+.divider {
+  display: inline-block;
+  width: 45%; /* Adjust as needed */
+  border-top: 1px solid #CCC; /* Adjust color as needed */
+  vertical-align: middle;
+  margin: 50px 0; /* Adjust spacing as needed */
+}
+
+.or-text {
+  display: inline-block;
+  padding: 0 10px; /* Adjust spacing around the 'OR' text */
+  background-color: #FFF; /* This should match the background color of your form/page */
+  vertical-align: middle;
+  color: #AAA; /* Adjust color to fit the 'OR' text color you prefer /
+  font-size: 14px; / Adjust the font size as needed /
+  font-weight: bold; / Makes the 'OR' text bold, remove if not desired */
+  }
+  .login-section {
+    text-align: center; /* Centers the contents horizontally /
+    margin-top: 20px; / Space above the login section, adjust as needed */
+    }
